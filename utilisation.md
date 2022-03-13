@@ -25,7 +25,7 @@ then you'll notice that you have to tap on the left of the screen or the right, 
 wheel color is respectively blue or orange.
 
 '-----' OPTIONS '------'
-<br />you can see at the bottom left corner two buttons that you can hit to :
+<br />you can see at the bottom two buttons that you can hit to :
   - enable/disable sound effect
   - change game theme (dark <-> light)
   
